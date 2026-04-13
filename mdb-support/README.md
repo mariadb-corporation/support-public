@@ -1,17 +1,3 @@
-
-**                                        **
-** press the 'q' key to quit this help    **
-**                                        **
-** the spacebar scrolls down one page     **
-** ↓ j ↑ k scroll one line at a time      **
-** g scrolls to the top, here             **
-** G scrolls to the bottom of the text    **
-**                                        **
-** To search for a word, type a slash     **
-** immediately followed by the string,    **
-** like this:                             **
-**     /MaxScale                          **
-
 NAME
     mdb-support.sh - Collects MariaDB or MaxScale server information for diagnostics.
 
